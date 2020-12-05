@@ -1,7 +1,7 @@
 # Mythic Phone
 Mythic Phone released for ESX framework!
 
-![FiveM Configuração](https://imgur./Dpcbbyf)
+![FiveM Configuração](https://i.imgur.com/Dpcbbyf.png)
 
 ## Dependencies
 - ESX Framework
