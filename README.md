@@ -12,4 +12,4 @@ FiveM Configuração -» https://discord.gg/QGmNP7f
 - Mythic_Notify
 
 ### Credits
-All the credits goes to @Alzar who made an excellent work creating the phone!
+All the credits goes to Alzar who made an excellent work creating the phone!
