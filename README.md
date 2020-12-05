@@ -5,7 +5,7 @@ Mythic Phone released for ESX framework!
 
 ## Links
 Download Link -> https://cdn.discordapp.com/attachments/670705325518749726/784904106509991946/fivemcfg-phone.rar
-FIVEM Configuração -> https://discord.gg/QGmNP7f
+Our community -> https://discord.gg/QGmNP7f
 
 ## Dependencies
 - ESX Framework
